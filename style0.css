@@ -1,0 +1,44 @@
+h1
+{
+    text-align:center;
+    background-color: #4286f4;
+    color: #ffffff;
+    padding: 15px;
+}
+
+h2
+{
+    margin-left:150px;
+    padding:5px;
+}
+
+h3
+{
+    padding:5px;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
+    position:fixed;
+}
+
+li a 
+{
+    display: block;
+    padding: 10px 20px;
+    background-color: #0bd4e2;
+}
+
+li a:hover
+{
+    background-color: white;
+}
+
+p
+{
+    margin-left:150px;
+    padding:5px;
+}
