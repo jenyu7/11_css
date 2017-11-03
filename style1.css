@@ -8,6 +8,8 @@ h1
     background-color:#5b0000 ;
     color: #ffffff;
     padding: 10px;
+    letter-spacing: 13px;
+
 }
 
 h2
@@ -48,4 +50,7 @@ p
     margin-left:15%;
     margin-top:0px;
     padding:5px;
+    border: groove thick black;
+    border-radius: 10px;
+
 }
